@@ -1,1 +1,1 @@
-# Live Objects -- Ethereum Primitives
+# Ethereum Live Objects
