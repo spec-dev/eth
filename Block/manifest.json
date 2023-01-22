@@ -1,0 +1,7 @@
+{
+    "namespace": "eth",
+    "name": "Block",
+    "version": "0.0.1",
+    "displayName": "Ethereum Blocks",
+    "description": "Blocks on Ethereum mainnet."
+}
