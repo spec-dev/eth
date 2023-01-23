@@ -1,0 +1,7 @@
+{
+    "namespace": "eth",
+    "name": "Transaction",
+    "version": "0.0.1",
+    "displayName": "Ethereum Transactions",
+    "description": "Transactions on Ethereum mainnet."
+}
