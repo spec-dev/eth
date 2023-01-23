@@ -1,4 +1,4 @@
-import { LiveObject, Spec, Property, BlockHash, BlockNumber, Timestamp } from 'https://esm.sh/@spec.dev/core@0.0.7'
+import { LiveObject, Spec, Property, BlockHash, BlockNumber, Timestamp } from 'https://esm.sh/@spec.dev/core@0.0.8'
 
 /**
  * An Ethereum Block.
