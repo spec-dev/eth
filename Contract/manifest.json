@@ -1,0 +1,7 @@
+{
+    "namespace": "eth",
+    "name": "Contract",
+    "version": "0.0.1",
+    "displayName": "Ethereum Contracts",
+    "description": "Smart contracts on Ethereum mainnet."
+}
