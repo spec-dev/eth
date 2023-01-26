@@ -1,0 +1,7 @@
+{
+    "namespace": "eth",
+    "name": "LatestInteraction",
+    "version": "0.0.1",
+    "displayName": "Latest Interactions",
+    "description": "Represents the latest interaction between two addresses."
+}
