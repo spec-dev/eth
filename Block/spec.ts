@@ -1,4 +1,4 @@
-import { LiveObject, Spec, Property, BlockHash, BlockNumber, Timestamp } from 'https://esm.sh/@spec.dev/core@0.0.8'
+import { LiveObject, Spec, Property, BlockHash, BlockNumber, Timestamp, Address } from 'https://esm.sh/@spec.dev/core@0.0.8'
 
 /**
  * An Ethereum Block.
@@ -47,7 +47,7 @@ class Block extends LiveObject {
 
     // Address of the beneficiary to whom the mining rewards were given.
     @Property()
-    miner: string
+    miner: Address
 
     // Difficulty for this block.
     @Property()
