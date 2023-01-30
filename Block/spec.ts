@@ -17,7 +17,7 @@ class Block extends LiveObject {
     @Property({ unique: true, primaryTimestamp: true })
     timestamp: Timestamp
 
-    // Block's parent's hash.
+    // Hash of the parent block.
     @Property()
     parentHash: BlockHash
 
